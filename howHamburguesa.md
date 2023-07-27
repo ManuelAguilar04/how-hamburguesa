@@ -7,4 +7,4 @@ condiments
 sazonadores
 aceite
 queso
-lechuga
+lechuga.
